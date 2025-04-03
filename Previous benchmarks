@@ -2,3 +2,7 @@ Benchmarks from AMD Ryzen 5 7600X, 1CORE
 Average CPU cycles for EVP_PKEY_generate: 626172981
 Average CPU cycles for EVP_PKEY_encrypt: 352329
 Average CPU cycles for EVP_PKEY_decrypt: 12251243
+
+Average CPU cycles for EVP_PKEY_generate: 687740031
+Average CPU cycles for EVP_PKEY_encrypt: 353422
+Average CPU cycles for EVP_PKEY_decrypt: 12271759
